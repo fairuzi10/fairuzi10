@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Fairuzi's github stats](https://github-readme-stats.vercel.app/api?username=fairuzi10&show_icons=true&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzi10&layout=compact&theme=react)
+
 <!--
 **fairuzi10/fairuzi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
